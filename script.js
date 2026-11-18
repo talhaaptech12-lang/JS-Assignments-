@@ -486,3 +486,34 @@
 // }else{
 //     console.log("invalid time")
 // }
+
+                // chapter 14
+// Question No. 1 - 3
+
+// var StudentName = ["ali", "farhan", "haleema"]
+
+// Question No. 4
+// var Numbers= [1,2,3,4,5]
+
+// Question No. 5
+// var booleaValue= [true, false]
+
+// Question No. 6
+
+// var mixedArr=["Ali",23, ["Saad", 23]]
+
+// Question No. 7
+
+// var Education= ["SSC", "HSC", "BSE", "BCOM"]
+// console.log(Education)
+
+// Question No. 8
+
+// var studentNames= ["ali", "saad", "farhan"]
+// var totalMarks= 500;
+
+// var marksObtained = [320, 340, 489]
+
+// console.log(studentNames[0] + " Scores is " + marksObtained[0] +". Percentage " + marksObtained[0]/totalMarks*100)
+// console.log(studentNames[1] + " Scores is " + marksObtained[1] +". Percentage " + marksObtained[0]/totalMarks*100)
+// console.log(studentNames[2] + " Scores is " + marksObtained[2] +". Percentage " + marksObtained[0]/totalMarks*100)
