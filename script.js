@@ -517,3 +517,35 @@
 // console.log(studentNames[0] + " Scores is " + marksObtained[0] +". Percentage " + marksObtained[0]/totalMarks*100)
 // console.log(studentNames[1] + " Scores is " + marksObtained[1] +". Percentage " + marksObtained[0]/totalMarks*100)
 // console.log(studentNames[2] + " Scores is " + marksObtained[2] +". Percentage " + marksObtained[0]/totalMarks*100)
+
+// Question No.9
+// part a
+// var colors = ["Blue", "Pink", "Brown"]
+
+// var userInputForStart= prompt("Add Color to the array")
+
+// colors.unshift(userinput)
+
+// console.log(colors)
+
+// Part b
+// var userInputForEnd= prompt("Add Color to the array")
+
+// colors.push(userinput)
+
+// console.log(colors)
+// Part C 
+// var colors = ["Blue", "Pink", "Brown"]
+// colors.splice(0, 0, "Green", "Purple")
+
+// console.log(colors)
+
+// Part D 
+// var colors = ["Blue", "Pink", "Brown"];
+// colors.splice(0,1)
+// console.log(colors)
+
+// Part e 
+// var colors = ["Blue", "Pink", "Brown"];
+//  colors.splice(colors.length-1,1)
+//  console.log(colors)
