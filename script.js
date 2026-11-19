@@ -549,3 +549,11 @@
 // var colors = ["Blue", "Pink", "Brown"];
 //  colors.splice(colors.length-1,1)
 //  console.log(colors)
+
+
+// Question No. 11
+
+// var cities = ["karachi", "islamabad", "lahore", "Quetta"];
+
+// var selectedCities = [cities.slice(1, 3)]
+// console.log(selectedCities)
