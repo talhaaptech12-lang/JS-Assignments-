@@ -551,9 +551,50 @@
 //  console.log(colors)
 
 
+// Question No. 10
+// var numbers = [320, 330, 230,120,170]
+// numbers.sort()
+// console.log(numbers)
+
 // Question No. 11
 
 // var cities = ["karachi", "islamabad", "lahore", "Quetta"];
 
 // var selectedCities = [cities.slice(1, 3)]
-// console.log(selectedCities)
+// console.log("selected cities list", selectedCities)
+
+// Question No. 12
+
+// var array= ["this", "is", "my", "cat"]
+
+// console.log(array.join(" "))
+
+// Question NO.13
+
+// var values = []
+// values.unshift("Tomato")
+// values.unshift("oniion")
+// values.unshift("carrot")
+// values.unshift("ginger")
+// values.unshift("ladyFinger")
+// values.unshift("eggPlant")
+// console.log(values)
+
+// console.log("Out", " : ", values.shift())
+// console.log("Out", " : ", values.shift())
+// console.log("Out", " : ", values.shift())
+// console.log("Out", " : ", values.shift())
+// console.log("Out", " : ", values.shift())
+// console.log("Out", " : ", values.shift())
+
+// Question NO.14
+
+// var values = ["carrot", "oniion","ginger","ladyFinger","eggPlant"]
+// values.push("Tomato")
+// console.log(values)
+
+// console.log("out" ," : ", values.pop())
+// console.log("out" ," : ", values.pop())
+// console.log("out" ," : ", values.pop())
+// console.log("out" ," : ", values.pop())
+// console.log("out" ," : ", values.pop())
