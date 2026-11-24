@@ -487,7 +487,7 @@
 //     console.log("invalid time")
 // }
 
-                // chapter 14
+                // chapter 14-16
 // Question No. 1 - 3
 
 // var StudentName = ["ali", "farhan", "haleema"]
@@ -598,3 +598,91 @@
 // console.log("out" ," : ", values.pop())
 // console.log("out" ," : ", values.pop())
 // console.log("out" ," : ", values.pop())
+
+
+// Chapter 17 to 18
+
+// Question No.3
+
+// for(i = 1; i <= 10; i++){
+//         console.log(i)
+// }
+
+// Question No. 4
+
+// var tableNum= +prompt("Enter a table Number")
+// var tableLength= +prompt("Enter a table length")
+
+// for(i =  tableNum; i <= tableLength; i++){
+//         console.log(tableNum + "x" + i +  " " + tableNum*i)
+// }
+
+// Question No. 5
+
+// var fruits=["apple", "banana", "Mango", "papaya"];
+
+// for (i = 0; i < fruits.length; i++){
+//         console.log(fruits[i])
+//         console.log("element at index ",i, "is ", fruits[i]  )
+        
+// }
+
+// question No 06
+// part a (Counting)
+// for (i = 0; i <= 15; i++){
+//         console.log(i)
+// }
+
+// part b (reverse Counting)
+// for(i = 10; i >= 0; i--){
+//         console.log(i)
+// }
+
+// part C
+// for(i = 0; i <=20; i++){
+//         if(i % 2 === 0){
+//                 console.log(i)
+//         }
+// }
+
+//  part d
+// for(i = 0; i <=20; i++){
+//         if(i % 2 === 1){
+//                 console.log(i)
+//         }
+// }
+
+// part e
+// for(i = 1; i <=20; i++){
+//         if(i % 2 === 0){
+//                 console.log(i +"K")
+//         }
+// }
+
+// Question No 07
+
+// let A = ["cake", "cheeseCake", "Roll", "Samosa"]
+//  let userInput = prompt("What do you Want?")
+// for (i= 0; i < A.length; i++){
+//         if(userInput === A[i]){
+//         console.log("yes")
+//         }else{
+//                 console.log(userInput + "not Available")
+//         }
+// }
+
+// Question No.08
+
+// let A =['2','8','5','9']
+
+// for(i = 0; i < A.length; i++){
+
+// }
+
+// Question No.10
+
+for (i = 5; i <= 100; i++){
+        if(i%5 === 0){
+                console.log(i)
+        }
+}
