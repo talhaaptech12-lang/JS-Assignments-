@@ -663,26 +663,49 @@
 
 // let A = ["cake", "cheeseCake", "Roll", "Samosa"]
 //  let userInput = prompt("What do you Want?")
+
+//  let found = false;
 // for (i= 0; i < A.length; i++){
 //         if(userInput === A[i]){
 //         console.log("yes")
-//         }else{
-//                 console.log(userInput + "not Available")
+//         found = true;
+//         break;
 //         }
+// }
+// if (found === false){
+//         console.log("not available")
 // }
 
 // Question No.08
 
 // let A =['2','8','5','9']
 
-// for(i = 0; i < A.length; i++){
+// let largestNum = A[0]
 
+// for(i = 0; i < A.length; i++){
+// if(A[i] >largestNum){
+//         largestNum = A[i]
+// }
 // }
 
-// Question No.10
+// console.log(largestNum)
 
-for (i = 5; i <= 100; i++){
-        if(i%5 === 0){
-                console.log(i)
+// Question No
+
+let B = [29,8,5,9]
+
+let small = B[0]
+for(i = 1; i < B.length; i++){
+        if(B[i] < small){
+                small = B[i];
         }
 }
+console.log(small)
+// Question No.10
+
+// for (i = 5; i <= 100; i++){
+//         if(i%5 === 0){
+//                 console.log(i)
+//         }
+// }
+
